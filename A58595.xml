@@ -1,0 +1,280 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To His Highness the Prince of Orange</title>
+            <author>Jeamson, Thomas, d. 1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58595</idno>
+            <idno type="STC">Wing S118</idno>
+            <idno type="STC">ESTC R204962</idno>
+            <idno type="EEBO-CITATION">12577840</idno>
+            <idno type="OCLC">ocm 12577840</idno>
+            <idno type="VID">63659</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58595)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63659)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 675:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To His Highness the Prince of Orange</title>
+                  <author>Jeamson, Thomas, d. 1674.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>In verse.</note>
+                  <note>Attributed to M.S. by Wing and BM.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:63659:1"/>
+            <pb n="1" facs="tcp:63659:1"/>
+            <head>TO His Highneſs THE PRINCE OF ORANGE.</head>
+            <lg>
+               <l>HAIL to Great <hi>ORANGE,</hi> hail Triumphant Prince,</l>
+               <l>Thou true Vicegerent of Omnipotence;</l>
+               <l>To thee, with all the Attributes of Heaven</l>
+               <l>Inſpir'd, to thee Belov'd, is only given</l>
+               <l>Avenging JUSTICE and the Power to Save,</l>
+               <l>Deliver, and Protect; And he that gave</l>
+               <l>Thoſe Godlike parts, will, nay he muſt ſecure</l>
+               <l>The great Poſſeſſor, if Time be to endure,</l>
+               <l>
+                  <pb n="2" facs="tcp:63659:2" rendition="simple:additions"/>For on your different Fate ſeems to depend,</l>
+               <l>The WORLDS long quiet, or its haſtened End;</l>
+               <l>The True RELIGION alſo needs muſt fail</l>
+               <l>The Gates of <hi>Hell</hi> for ever muſt prevail,</l>
+               <l>If for the CHURCH your deareſt Life be ſpilt,</l>
+               <l>You're now that ROCK on which that Church is built.</l>
+            </lg>
+            <lg>
+               <l>No Glorious PRINCE, the Almighty now has ſhewn</l>
+               <l>Too ſignally, Your CAUSE to be His OWN;</l>
+               <l>(And you the Deareſt FAVORITE of Heaven,</l>
+               <l>By the amazing Aids, his power has given)</l>
+               <l>For us to doubt; we'll gratefully endeavor,</l>
+               <l>To thank kind Heaven, then ſay PRINCE live for ever.</l>
+            </lg>
+            <lg>
+               <l>Long had the Fam'd <hi>BRITTANIA</hi> nobly ſtrove,</l>
+               <l>To bear and hide repeated Wrongs with LOVE</l>
+               <l>And DUTY; thinking 'twould move a gen'rous mind,</l>
+               <l>By freſh Engagements, not to be more unkind;</l>
+               <l>But all in vain, the more ſhe gave, the more</l>
+               <l>She was Inſulted on, though n'ere before,</l>
+               <l>Did She Affronts of half that moment bear:</l>
+               <l>At laſt by th'Ungrateful ſhe was forc't to Tear</l>
+               <l>Her ſelf away; an angry Scorn ſupply'd</l>
+               <l>Her former Love; nor cou'd ſhe more abide,</l>
+               <l>
+                  <pb n="3" facs="tcp:63659:2"/>But parting quick, I'le humble you, ſays ſhe,</l>
+               <l>And make you<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> know, you hold your power from me,</l>
+               <l>Twas I that rais'd you, and can pull you down,</l>
+               <l>The reſt was ſeen thro' a Majeſtick frown.</l>
+               <l>Strait ſhe an Embaſſage to <hi>HOLLAND</hi> ſends,</l>
+               <l>And Councel takes with her true Noble Friends;</l>
+               <l>Wherein ſhe is advis'd to ſend her Mind</l>
+               <l>To that great PRINCE, after this moving kind:</l>
+            </lg>
+            <lg>
+               <l>Moſt <hi>Royal Sir,</hi> 'Tis not to You unknown,</l>
+               <l>What great Abuſes we've with Patience born,</l>
+               <l>And hitherto had born, (for 'tis our Fate,</l>
+               <l>Long ſince to Feel th'Encroaching Tricks of State,)</l>
+               <l>But when I found my Great Foundations ſhook,</l>
+               <l>And Nothing leſs, cou'd ſatisfie the ſtroak,</l>
+               <l>Of Petty undermining Vermin, who</l>
+               <l>Pretend Authority for what they do,</l>
+               <l>Though no Authority, but firſt takes date</l>
+               <l>From thoſe Great LAWS they ſeek to Violate;</l>
+               <l>Thoſe Ancient Laws, than which there's nothing can,</l>
+               <l>Be held more Sacred, nor ſtronger made by Man;</l>
+               <l>LIBERTY of CONSCIENCE the falſe <hi>Sirens</hi> Sing,</l>
+               <l>While Violence and Wrong far louder ring;</l>
+               <l>
+                  <hi>Cloſetting, Impriſoning, Deprivations,</hi>
+               </l>
+               <l>
+                  <hi>Diſpencing Power,</hi> and unjuſt <hi>Regulations,</hi>
+               </l>
+               <l>
+                  <pb n="4" facs="tcp:63659:3"/>With theſe, my Famous Liberty's betray'd,</l>
+               <l>Thus <hi>Brittiſh Property</hi> a Prize is made;</l>
+               <l>A Forreign Force is Threatn'd, and perchance,</l>
+               <l>We Innocent, are baſely Sold to <hi>France;</hi>
+               </l>
+               <l>But which is worſe, which is the greateſt Blow,</l>
+               <l>We muſt Great PRINCE, thus plainly let you know,</l>
+               <l>(Having too juſt Suſpicion for our fears)</l>
+               <l>You and Your <hi>Royal Conſort's</hi> wrong'd; the Heirs</l>
+               <l>Of all our utmoſt Hopes, Deſires, and Prayers;</l>
+               <l>Unnaturally are Wrong'd; come mighty PRINCE,</l>
+               <l>Regain your Right, puniſh their Inſolence,</l>
+               <l>And be the Church and Nations great Defence;</l>
+               <l>We will aſſiſt You with our utmoſt power,</l>
+               <l>Command our Service from this very hour,</l>
+               <l>Our Army ſends the ſame, though rais'd for ill,</l>
+               <l>Yet love their Faith and Deareſt Country well:</l>
+               <l>Come to our Longing Shoars, O come away,</l>
+               <l>Heav'n will aſſiſt, Deſtructive is Delay.</l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:63659:3"/>
+               <l>When to the Warlike <hi>Prince</hi> this Meſſage came;</l>
+               <l>Firſt having paus'd, thus anſwer'd to the ſame:</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Illuſtrious Queen,</hi> I'me troubl'd when I hear</l>
+               <l>What You have ſuffred, and what more you fear;</l>
+               <l>A ſpeedy Aid (preſt by ſo juſt a Cauſe)</l>
+               <l>My Near Relation, and my pitty draws,</l>
+               <l>Diſſipate your Grief, my ſelf will ſhortly come,</l>
+               <l>Redreſs your Wrongs, or freely meet my doom.</l>
+            </lg>
+            <lg>
+               <l>The Careful <hi>Prince</hi> all other thoughts laid by,</l>
+               <l>The elſe impoſſible deſign, does ply</l>
+               <l>With luckieſt Haſte, unparalell'd Secrecy;</l>
+               <l>Both were with ſuch ſucceſs purſu'd, that we</l>
+               <l>May almoſt fear, a Viſion's all we ſee:</l>
+               <l>So ſtrange, ſo ſuddain, that the Relation ſeems</l>
+               <l>T'out-do Romances, or Luxuriant Dreams;</l>
+               <l>The Seas, the Winds, the Seaſon of the Year;</l>
+               <l>Fleets, Armies rul'd by <hi>Providence,</hi> conſpire</l>
+               <l>To finiſh the Triumphant Scene, to Theſe</l>
+               <l>Add Conſcious Flights, with tim'rous Guiltineſs,</l>
+               <l>Infatuate Councels, Inexorable Wilfulneſs,</l>
+               <l>More than our hearts cou'd wiſh, or thoughts cou'd gueſs:</l>
+               <l>
+                  <pb n="6" facs="tcp:63659:4"/>
+                  <hi>Deliverance</hi> and <hi>Protection's</hi> now the Themc,</l>
+               <l>Which Fame does through the Happy Land proclaim;</l>
+               <l>While grateful Hearts, ſhall thronging round you lie,</l>
+               <l>And Unborn Nations, bleſs your Memory.</l>
+            </lg>
+            <lg>
+               <l>Thou Greateſt <hi>HERO</hi> of thy RACE, go on,</l>
+               <l>The like Succeſs thy Vaſt Deſigns ſhall Crown;</l>
+               <l>This's but an Earneſt of thy future <hi>Power,</hi>
+               </l>
+               <l>Now <hi>ENGLANDS King,</hi> then <hi>E<g ref="char:V">Ʋ</g>ROPES Emperor;</hi>
+               </l>
+               <l>
+                  <hi>Europe</hi> to You, Your mighty Fortune grants,</l>
+               <l>
+                  <hi>Europe</hi> Deliverance and Protection wants;</l>
+               <l>Two Ore-grown Monſters, there you will ſuppreſs,</l>
+               <l>The <hi>Gallick</hi> Tyrant, and <hi>Roman</hi> Sorcereſs,</l>
+               <l>Who both Unite their Venom, and their Power,</l>
+               <l>The Innocent, REFORMED, to Devour:</l>
+               <l>You like <hi>APOLLO,</hi> ſhall Confound their Ends,</l>
+               <l>And from the Earth, drive the <hi>PYTHONIAN</hi> Fiends.</l>
+               <l>Were <hi>Homer</hi> then alive, he'd bluſh to ſee,</l>
+               <l>His Fam'd <hi>Achilles,</hi> far ſurpaſs'd by THEE:</l>
+               <l>That Matchleſs Artiſt, wou'd with amazement view,</l>
+               <l>More than he feign'd of him, perform'd by You.</l>
+               <l>Cou'd we the Sycophantiſh Praiſes give,</l>
+               <l>Which Vaineſt Tyrants have been flatter'd with;</l>
+               <l>Cou'd Rhetorick be like Minerals diſtill'd,</l>
+               <l>And our weak Verſe, with th'Volatile Spirit fill'd;</l>
+               <l>
+                  <pb n="7" facs="tcp:63659:4"/>Cou'd we Extract th'Sublimeſt Strains that e're</l>
+               <l>By Art in <hi>Panegyricks</hi> did appear,</l>
+               <l>They'd be like Torches lighted to the <hi>Sun,</hi>
+               </l>
+               <l>Or Pygmy Guards around a Gyants Throne:</l>
+               <l>Stop then thou Feeble Muſe, nor farther dare,</l>
+               <l>Angels alone this Theme are fit to bear.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
